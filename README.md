@@ -144,3 +144,10 @@
 To become a top-tier **AI Engineer** building scalable, production-ready intelligent systems integrating **AI + IoT + Cloud**.
 
 ---
+
+
+<!-- Readme Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpkhatake&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<!-- Profile Visitors Count -->
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sankalpkhatake&label=Profile%20views&color=0e75b6&style=flat" alt="Sankalpkhatake" /></p>
