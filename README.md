@@ -57,7 +57,7 @@
 ---
 
 ### ⚙️ HELIOSENSE – Machine Failure Prediction
-🔗 *(Add Repo Link)*  
+🔗 *[(Add Repo Link)](https://github.com/sankalpkhatake07/Heliosense.git)*  
 - Multi-sensor IoT anomaly detection system  
 - Achieved **~95% fault detection accuracy**  
 - Reduced downtime by **~28%**  
@@ -66,7 +66,7 @@
 ---
 
 ### 👁️ VisionGuard – AI for Blind Navigation
-🔗 *(Add Repo Link)*  
+🔗 *[(Add Repo Link)](https://github.com/sankalpkhatake07/VisionGuard_project.git)*  
 - YOLO-based real-time obstacle detection  
 - ~90% detection accuracy  
 - Improved safety by **~40%**  
